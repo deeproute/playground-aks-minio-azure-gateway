@@ -1,0 +1,9 @@
+host_base = 51.138.14.68:9000
+host_bucket = 51.138.14.68:9000
+
+bucket_location = westeurope
+use_https = False
+access_key = miniotest123
+secret_key = i3psRqmEWdn53UH4jPEjvdDp4lvUHbfCL5K3BiwxJOYVPm+CmrAXLH6Ku2Fg3UnktFTHAwiyBTYWcp97ZBWwxg==
+# Use S3 v4 signature APIs
+signature_v2 = False

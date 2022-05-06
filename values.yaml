@@ -1,0 +1,8 @@
+azuregateway:
+  enabled: true
+  replicas: 1 # default: 4
+service:
+  type: LoadBalancer
+  # annotations: {
+  #     service.beta.kubernetes.io/azure-load-balancer-internal: "true"
+  # }
